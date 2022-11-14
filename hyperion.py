@@ -13,7 +13,11 @@ from random import choice, shuffle, randint
 
 from zlib import compress
 
-
+try:
+    print("[!] Preparing the setup...")
+    import morecolors
+except:
+    os.system('pip install more-colors')
 
 
 
