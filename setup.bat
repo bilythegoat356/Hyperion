@@ -1,2 +1,2 @@
 pip install pystyle
-pip install more-colors
+pip install simplyjson
